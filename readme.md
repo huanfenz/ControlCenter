@@ -32,10 +32,11 @@
 
 ## 界面展示
 
-![](http://wangpeng-imgsubmit.oss-cn-hangzhou.aliyuncs.com/img/202205262041848.png)
+![gt1](https://github.com/huanfenz/ControlCenter/assets/49386166/60f02841-c2e8-42ea-bb61-de3ea9bc8a0e)
 
-![](http://wangpeng-imgsubmit.oss-cn-hangzhou.aliyuncs.com/img/202205262042466.png)
+![gt2](https://github.com/huanfenz/ControlCenter/assets/49386166/b5a710c6-7951-45cd-b8b7-5f3ce56e5453)
 
-![](http://wangpeng-imgsubmit.oss-cn-hangzhou.aliyuncs.com/img/202205262042123.png)
+![gt3](https://github.com/huanfenz/ControlCenter/assets/49386166/43ed39b6-10f3-4e73-b189-8acebb35fd1f)
+
 
 
